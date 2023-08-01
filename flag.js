@@ -35,9 +35,17 @@ function outSkorea() {
   var c = "";
   document.getElementById("skorea").innerHTML = c;
 }
+function americaFunc() {
+  var c = "This is the flag of America";
+  document.getElementById("america").innerHTML = c;
+}
+function outAmerica() {
+  var c = "";
+  document.getElementById("america").innerHTML = c;
+}
 
 function nepalFunc() {
-  var c = "This is the flag of Nepal";
+  var c = "This is the flag of nepal";
   document.getElementById("nepal").innerHTML = c;
 }
 function outNepal() {
