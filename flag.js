@@ -52,3 +52,11 @@ function outNepal() {
   var c = "";
   document.getElementById("nepal").innerHTML = c;
 }
+function nepalFunc() {
+  var c = "This is the flag of nepal";
+  document.getElementById("nepal").innerHTML = c;
+}
+function outNepal() {
+  var c = "";
+  document.getElementById("nepal").innerHTML = c;
+}
