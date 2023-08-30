@@ -45,18 +45,18 @@ function outAmerica() {
 }
 
 function nepalFunc() {
-  var c = "This is the flag of nepal";
+  var c = "This is the flag of Nepal";
   document.getElementById("nepal").innerHTML = c;
 }
 function outNepal() {
   var c = "";
   document.getElementById("nepal").innerHTML = c;
 }
-function nepalFunc() {
-  var c = "This is the flag of nepal";
-  document.getElementById("nepal").innerHTML = c;
+function bhutanFunc() {
+  var c = "This is the flag of Bhutan";
+  document.getElementById("bhutan").innerHTML = c;
 }
-function outNepal() {
+function outBhutan() {
   var c = "";
-  document.getElementById("nepal").innerHTML = c;
+  document.getElementById("bhutan").innerHTML = c;
 }
