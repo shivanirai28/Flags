@@ -9,7 +9,7 @@ function outBrazil() {
 }
 
 function indiaFunc() {
-  var c = "This is the flag of India";
+  var c = "This is the flag of  India";
   document.getElementById("india").innerHTML = c;
 }
 
@@ -59,4 +59,20 @@ function bhutanFunc() {
 function outBhutan() {
   var c = "";
   document.getElementById("bhutan").innerHTML = c;
+}
+function canadaFunc() {
+  var c = "This is the flag of Canada";
+  document.getElementById("canada").innerHTML = c;
+}
+function outCanada() {
+  var c = "";
+  document.getElementById("canada").innerHTML = c;
+}
+function germanyFunc() {
+  var c = "This is the flag of Germany";
+  document.getElementById("germany").innerHTML = c;
+}
+function outGermany() {
+  var c = "";
+  document.getElementById("germany").innerHTML = c;
 }
