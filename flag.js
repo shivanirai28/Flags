@@ -76,3 +76,11 @@ function outGermany() {
   var c = "";
   document.getElementById("germany").innerHTML = c;
 }
+function chinaFunc() {
+  var c = "This is the flag of China";
+  document.getElementById("china").innerHTML = c;
+}
+function outChina() {
+  var c = "";
+  document.getElementById("china").innerHTML = c;
+}
