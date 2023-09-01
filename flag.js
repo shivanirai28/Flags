@@ -84,3 +84,27 @@ function outChina() {
   var c = "";
   document.getElementById("china").innerHTML = c;
 }
+function franceFunc() {
+  var c = "This is the flag of France";
+  document.getElementById("france").innerHTML = c;
+}
+function outFrance() {
+  var c = "";
+  document.getElementById("france").innerHTML = c;
+}
+function ausFunc() {
+  var c = "This is the flag of Australia";
+  document.getElementById("aus").innerHTML = c;
+}
+function outAus() {
+  var c = "";
+  document.getElementById("aus").innerHTML = c;
+}
+function bangFunc() {
+  var c = "This is the flag of Bangladesh ";
+  document.getElementById("bang").innerHTML = c;
+}
+function outBang() {
+  var c = "";
+  document.getElementById("bang").innerHTML = c;
+}
