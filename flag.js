@@ -108,3 +108,38 @@ function outBang() {
   var c = "";
   document.getElementById("bang").innerHTML = c;
 }
+function afgFunc() {
+  var c = "This is the flag of Afganistan ";
+  document.getElementById("afg").innerHTML = c;
+}
+function outAfg() {
+  var c = "";
+  document.getElementById("afg").innerHTML = c;
+}
+
+function belgFunc() {
+  var c = "This is the flag of Belgium ";
+  document.getElementById("belg").innerHTML = c;
+}
+function outBelg() {
+  var c = "";
+  document.getElementById("belg").innerHTML = c;
+}
+
+function cambFunc() {
+  var c = "This is the flag of Cambodia ";
+  document.getElementById("camb").innerHTML = c;
+}
+function outCamb() {
+  var c = "";
+  document.getElementById("camb").innerHTML = c;
+}
+
+function cubaFunc() {
+  var c = "This is the flag of Cuba ";
+  document.getElementById("cuba").innerHTML = c;
+}
+function outCuba() {
+  var c = "";
+  document.getElementById("cuba").innerHTML = c;
+}
