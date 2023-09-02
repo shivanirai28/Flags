@@ -143,3 +143,19 @@ function outCuba() {
   var c = "";
   document.getElementById("cuba").innerHTML = c;
 }
+function egyptFunc() {
+  var c = "This is the flag of Egypt ";
+  document.getElementById("egypt").innerHTML = c;
+}
+function outEgypt() {
+  var c = "";
+  document.getElementById("egypt").innerHTML = c;
+}
+function austriaFunc() {
+  var c = "This is the flag of Austria ";
+  document.getElementById("austria").innerHTML = c;
+}
+function outAustria() {
+  var c = "";
+  document.getElementById("austria").innerHTML = c;
+}
