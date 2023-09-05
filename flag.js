@@ -159,3 +159,11 @@ function outAustria() {
   var c = "";
   document.getElementById("austria").innerHTML = c;
 }
+function algeriaFunc() {
+  var c = "This is the flag of Algeria ";
+  document.getElementById("algeria").innerHTML = c;
+}
+function outAlgeria() {
+  var c = "";
+  document.getElementById("algeria").innerHTML = c;
+}
