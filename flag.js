@@ -167,3 +167,11 @@ function outAlgeria() {
   var c = "";
   document.getElementById("algeria").innerHTML = c;
 }
+function greeceFunc() {
+  var c = "This is the flag of Greece ";
+  document.getElementById("greece").innerHTML = c;
+}
+function outGreece() {
+  var c = "";
+  document.getElementById("greece").innerHTML = c;
+}
