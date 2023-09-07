@@ -175,3 +175,11 @@ function outGreece() {
   var c = "";
   document.getElementById("greece").innerHTML = c;
 }
+function angolaFunc() {
+  var c = "This is the flag of Angola ";
+  document.getElementById("angola").innerHTML = c;
+}
+function outAngola() {
+  var c = "";
+  document.getElementById("angola").innerHTML = c;
+}
