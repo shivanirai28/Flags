@@ -183,3 +183,11 @@ function outAngola() {
   var c = "";
   document.getElementById("angola").innerHTML = c;
 }
+function romainaFunc() {
+  var c = "This is the flag of Romaina ";
+  document.getElementById("romaina").innerHTML = c;
+}
+function outRomaina() {
+  var c = "";
+  document.getElementById("romaina").innerHTML = c;
+}
