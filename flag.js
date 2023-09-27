@@ -191,11 +191,19 @@ function outRomaina() {
   var c = "";
   document.getElementById("romaina").innerHTML = c;
 }
-function romainaFunc() {
-  var c = "This is the flag of Romaina ";
-  document.getElementById("romaina").innerHTML = c;
+function burundiFunc() {
+  var c = "This is the flag of Burundi ";
+  document.getElementById("burundi").innerHTML = c;
 }
-function outRomaina() {
+function outBurundi() {
   var c = "";
-  document.getElementById("romaina").innerHTML = c;
+  document.getElementById("burundi").innerHTML = c;
+}
+function cameroonFunc() {
+  var c = "This is the flag of Cameroon ";
+  document.getElementById("cameroon").innerHTML = c;
+}
+function outCameroon() {
+  var c = "";
+  document.getElementById("cameroon").innerHTML = c;
 }
