@@ -207,3 +207,11 @@ function outCameroon() {
   var c = "";
   document.getElementById("cameroon").innerHTML = c;
 }
+function BelizeFunc() {
+  var c = "This is the flag of Belize ";
+  document.getElementById("Belize").innerHTML = c;
+}
+function outBelize() {
+  var c = "";
+  document.getElementById("Belize").innerHTML = c;
+}
