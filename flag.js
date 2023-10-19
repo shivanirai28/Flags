@@ -215,3 +215,11 @@ function outBelize() {
   var c = "";
   document.getElementById("Belize").innerHTML = c;
 }
+function BoliviaFunc() {
+  var c = "This is the flag of Bolivia ";
+  document.getElementById("Bolivia").innerHTML = c;
+}
+function outBolivia() {
+  var c = "";
+  document.getElementById("Bolivia").innerHTML = c;
+}
