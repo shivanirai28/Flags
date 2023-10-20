@@ -38,7 +38,7 @@ script.js: The JavaScript file that handles the hover and click events.
 
 # Contributing
 
-## We welcome contributions to make this project even better. If you'd like to contribute, please follow these steps:
+We welcome contributions to make this project even better. If you'd like to contribute, please follow these steps:
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and test them.
