@@ -4,7 +4,6 @@ This README provides an overview of the Flag Project, a web application that dis
 # Table of Contents
 
  Project Overview <br>
- Getting Started<br>
  Usage<br>
  Project Structure<br>
  Contributing<br>
@@ -45,6 +44,6 @@ Make your changes and test them.
 Create a pull request to merge your changes into the main repository.
    
 Please ensure that your code follows best practices, is well-documented, and maintains the project's simplicity and usability.
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details. Feel free to use, modify, and distribute the project in accordance with the license terms.
