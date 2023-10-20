@@ -2,12 +2,12 @@
 
 This README provides an overview of the Flag Project, a web application that displays the flags of different countries using HTML and JavaScript. The project includes a hover effect to highlight flags and displays the name of the country upon clicking on a flag. This project is a fun and educational way to learn about flags from around the world.
 # Table of Contents
-
- Project Overview <br>
- Usage<br>
- Project Structure<br>
- Contributing<br>
- License
+ [Project Overview](#project-overview)
+ [Usage](#usage)
+ [Project Structure](#project-structure)
+ [Tech Stack](#tech-stack)
+ [Contributing](#contributing)
+ [License](#license)
     
  # Project Overview
 
@@ -46,4 +46,4 @@ Create a pull request to merge your changes into the main repository.
 Please ensure that your code follows best practices, is well-documented, and maintains the project's simplicity and usability.
 # License
 
-This project is licensed under the MIT License. See the LICENSE file for details. Feel free to use, modify, and distribute the project in accordance with the license terms.
+This project is licensed under the MIT License. See the [LICENSE](#LICENSE) file for details. Feel free to use, modify, and distribute the project in accordance with the license terms.
