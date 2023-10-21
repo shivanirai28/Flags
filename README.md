@@ -19,12 +19,12 @@ Hover Effect: When you hover over a flag, it will change appearance to provide a
 
  # Usage
 
- ## Viewing Flags:
+ Viewing Flags:
  Once the project is loaded in your browser, you will see a grid of flags from different countries.
  Hover over a flag to see the hover effect.
  Click on a flag to display the name of the country it represents.
 
- ## Learning Flags:
+ Learning Flags:
  Use this project as an educational tool to learn the flags of various countries.
  Test your knowledge by hovering over the flags and trying to guess the countries before clicking on them to reveal their names.
 
